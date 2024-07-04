@@ -86,12 +86,6 @@ npm start
 
 
 ## ***Your app all set***
-<hr />
-
-# Backend Repository
-# To check the Backend of this project visit : https://github.com/Yourstruggle11/HaveItDiscussed-Server
-
-<hr />
 
 
 # ***Attention***
