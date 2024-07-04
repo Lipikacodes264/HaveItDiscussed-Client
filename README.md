@@ -18,9 +18,7 @@
 <br />
 <br />
 
-# Preview
 
-# [SITE IS LIVE HERE](https://haveitdiscussed.netlify.app/ "HaveItdiscussed") 
 
 
 
